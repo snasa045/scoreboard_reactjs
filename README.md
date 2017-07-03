@@ -1,3 +1,3 @@
 # scoreboard_reactjs
 
----> Scoreboard application which can reflect according to the stat of the game.   
+---> scoreboard web application which can reflect a status of a play dynamically according to the current stat of the game.    
